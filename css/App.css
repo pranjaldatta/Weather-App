@@ -1,0 +1,27 @@
+.mainHeader {
+    display: flexbox;
+    
+    z-index : 1 ;
+    overflow: hidden;
+    position: relative;
+    padding : 10px;
+    
+    text-align: left;
+    color: white;
+    font-family: 'Abel'	;
+
+    border-bottom: 2px solid black;
+    padding: 10px;
+
+
+    
+}
+
+h1{
+    font-size: 20px;
+
+}
+
+h3{
+    font-size: 15px;
+}
