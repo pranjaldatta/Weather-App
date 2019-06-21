@@ -1,6 +1,6 @@
 # Weather App 
 
-The App was built using Node.js, React & Express. The app is in accordance with FreeCodeCamp's take home challenge .
+The App was built using Node.js, React & Express. The app is in accordance with FreeCodeCamp's take home challenge.
 
 Pre-requisites : A version of Node.js installed
 
